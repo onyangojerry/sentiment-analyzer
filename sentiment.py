@@ -1,6 +1,3 @@
-# Jerry Onyango
-# Assign7
-# March 21, 2023
 import fileinput
 
 
